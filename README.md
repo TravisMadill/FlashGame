@@ -1,6 +1,6 @@
 # FlashGame
 
-This is a Flash game I made as one of the final projects in my Grade 12 programming class. And it was all made with Flash CS5.5.
+This is a Flash game I made as one of the final projects in my Grade 12 programming class. And it was all made with Flash CS5.5. Old-school. :P
 
 Because this was an actual project for me, this repository contains some stuff I wouldn't normally include in my usual mini-projects, like flowcharts and detailed comments and an actual readme file.
 
