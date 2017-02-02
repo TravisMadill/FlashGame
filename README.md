@@ -1,4 +1,5 @@
 # FlashGame
+## Click the Targets!
 
 This is a Flash game I made as one of the final projects in my Grade 12 programming class. And it was all made with Flash CS5.5. Old-school. :P
 
